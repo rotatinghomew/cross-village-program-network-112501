@@ -1,0 +1,26 @@
+[
+  {
+    "event_id": "cross_village_program_network-e01",
+    "period": "2026-Q1",
+    "group": "A",
+    "status": "recorded"
+  },
+  {
+    "event_id": "cross_village_program_network-e02",
+    "period": "2026-Q1",
+    "group": "B",
+    "status": "recorded"
+  },
+  {
+    "event_id": "cross_village_program_network-e03",
+    "period": "2026-Q2",
+    "group": "A",
+    "status": "pending"
+  },
+  {
+    "event_id": "cross_village_program_network-e04",
+    "period": "2026-Q2",
+    "group": "C",
+    "status": "recorded"
+  }
+]

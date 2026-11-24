@@ -1,0 +1,9 @@
+[build-system]
+requires = []
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cross-village-program-network"
+version = "0.1.0"
+description = "跨村传播网络的主题覆盖与队伍互助"
+requires-python = ">=3.11"

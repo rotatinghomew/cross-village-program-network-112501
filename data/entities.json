@@ -1,0 +1,17 @@
+[
+  {
+    "entity_id": "cross_village_program_network-x01",
+    "label": "甲村",
+    "active": true
+  },
+  {
+    "entity_id": "cross_village_program_network-x02",
+    "label": "乙村",
+    "active": true
+  },
+  {
+    "entity_id": "cross_village_program_network-x03",
+    "label": "丙村",
+    "active": false
+  }
+]
